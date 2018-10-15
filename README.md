@@ -1,0 +1,2 @@
+# SPOT
+Proyecto inventario
